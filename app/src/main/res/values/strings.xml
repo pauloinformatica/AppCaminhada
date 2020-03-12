@@ -8,6 +8,6 @@
     <string name="sign_in">Assine</string>
     <string name="don_t_have_an_account">Don\'t have an account?</string>
     <string name="email">Email</string>
-    <string name="replace_password">Replace Password</string>
+    <string name="replace_password">Troque a Senha</string>
     <string name="sign_up">Sign Up</string>
 </resources>
