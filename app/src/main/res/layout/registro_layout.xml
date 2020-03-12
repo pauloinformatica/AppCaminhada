@@ -19,7 +19,7 @@
             android:layout_width="150dp"
             android:layout_height="150dp"
             android:layout_gravity="center_horizontal"
-            android:src="@drawable/logonovo" />
+            android:src="@drawable/pes" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -81,8 +81,8 @@
             android:padding="20dp"
             android:text="@string/sign_up"
             android:textAllCaps="false"
-            android:textColor="@color/corFonte"
-            android:textSize="25dp" />
+            android:textColorHint="@color/corFonte"
+            android:textSize="30dp" />
 
     </LinearLayout>
 </LinearLayout>
